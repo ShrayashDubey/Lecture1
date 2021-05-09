@@ -1,0 +1,3 @@
+ctrl n      new file
+ctrl k del  delete file
+ctrl r      rename file
